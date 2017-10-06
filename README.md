@@ -9,4 +9,11 @@ _book_ -> _e-book_, _card_ -> _e-card_, _trade_ -> _e-trade_, _business_ -> _e-b
 Thus we expect the application of the same kind of language patterns used with a _cigarette_ to describe 
 an _e-cigarette_ (e.g. _smoke_, _drag_, _inhale_ etc.).
 
+This project includes experiments using computational language analysis and tools from natural language processing 
+to uncover how language patterns related to e-cigarettes.
+
+
+### Data
+
+* Vaping testimonials from users of e-cigarettes posted on the American Vaping Association website
 
